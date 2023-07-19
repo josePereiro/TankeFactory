@@ -9,3 +9,6 @@ Just a hub of discussions from join reading.
 
 > universalityAndQuines:
 > https://math.berkeley.edu/~kmill/blog/blog_2018_5_31_universality_quines.html
+
+> catichaLecturesProbabilityEntropy2008:
+> Caticha, Ariel. “Lectures on Probability, Entropy, and Statistical Physics.” ArXiv:0808.0012 [Cond-Mat, Physics:Physics, Stat], July 31, 2008. http://arxiv.org/abs/0808.0012.
