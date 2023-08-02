@@ -18,3 +18,6 @@ Just a hub of discussions from join readings.
 
 5. hsuSchaumOutlineTheory1997:
    Hsu, Hwei P. Schaum’s Outline of Theory and Problems of Probability, Random Variables, and Random Processes. Schaum’s Outline Series. New York: McGraw-Hill, 1997.
+
+6. baaderDescriptionLogicHandbook2003:
+   Baader, Franz, ed. The Description Logic Handbook: Theory, Implementation, and Applications. Cambridge, UK ; New York: Cambridge University Press, 2003.
