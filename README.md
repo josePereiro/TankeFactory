@@ -21,3 +21,6 @@ Just a hub of discussions from join readings.
 
 6. baaderDescriptionLogicHandbook2003:
    Baader, Franz, ed. The Description Logic Handbook: Theory, Implementation, and Applications. Cambridge, UK ; New York: Cambridge University Press, 2003.
+
+7. dawkinsSelfishGene2006
+   Dawkins, Richard. The Selfish Gene. 30th anniversary ed. Oxford ; New York: Oxford University Press, 2006.
