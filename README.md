@@ -24,3 +24,6 @@ Just a hub of discussions from join readings.
 
 8. [dawkinsSelfishGene2006](https://github.com/josePereiro/TankeFactory/discussions?discussions_q=label%3AdawkinsSelfishGene2006):
    Dawkins, Richard. The Selfish Gene. 30th anniversary ed. Oxford ; New York: Oxford University Press, 2006.
+
+9. [macKayInformationTheoryInference2005](https://www.inference.org.uk/itila/book.html)
+    MacKay, David. J. (2003). Information theory, inference and learning algorithms. Cambridge university press.
