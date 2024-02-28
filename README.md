@@ -27,3 +27,7 @@ Just a hub of discussions from join readings.
 
 9. [macKayInformationTheoryInference2005](https://www.inference.org.uk/itila/book.html)
     MacKay, David. J. (2003). Information theory, inference and learning algorithms. Cambridge university press.
+
+10. [axelrodEvolutionCooperation1981](https://github.com/josePereiro/TankeFactory/discussions?discussions_q=label%3AaxelrodEvolutionCooperation1981):
+    Axelrod, Robert, and William D. Hamilton. “The Evolution of Cooperation.” Science 211, no. 4489 (March 27, 1981): 1390–96. https://doi.org/10.1126/science.7466396.
+
